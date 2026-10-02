@@ -5,11 +5,8 @@ Public host for Brobot Games' Shwoop press kit and the images used in outreach e
 Press page: https://brobotgames.com/press/shwoop
 Steam: https://store.steampowered.com/app/4029240/Shwoop/
 
-- `kit/logo/` transparent logos (white, white with glow, dark)
-- `kit/screenshots/` full-size screenshots
-- `kit/art/` key art
-- `kit/clips/` short silent gameplay loops (MP4)
-- `kit/award/` Bigmode Game Jam 2026 Judge's Choice award
-- `kit/previews/` small copies used by the press page
+- `kit/` the press kit: logos, screenshots, key art, clips, the Bigmode Game Jam 2026 Judge's Choice award
+- `shwoop-press-kit.zip` the same files as one download (the press page's button); rebuild it whenever `kit/` changes
+- `web/` files the press page and emails load: small previews and the email GIF
 
 Free to use in videos, thumbnails, streams and articles about Shwoop.
