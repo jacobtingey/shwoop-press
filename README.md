@@ -8,6 +8,7 @@ Steam: https://store.steampowered.com/app/4029240/Shwoop/
 - `kit/logo/` transparent logos (white, white with glow, dark)
 - `kit/screenshots/` full-size screenshots
 - `kit/art/` key art
+- `kit/clips/` short silent gameplay loops (MP4)
 - `kit/award/` Bigmode Game Jam 2026 Judge's Choice award
 - `kit/previews/` small copies used by the press page
 
